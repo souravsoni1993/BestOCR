@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Create</string>
+
+    <!-- Please refer to https://www.projectoxford.ai/ to get your subscription key -->
+    <!-- If you have one subscription key, you can add it here to use the service -->
+    <string name="subscription_key">632990a7435a4b41aecb9ca8d071ad58</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <!-- Select image activity -->
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">From Gallery</string>
+</resources>
