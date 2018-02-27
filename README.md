@@ -23,4 +23,5 @@ Following are the app screens.
 <img width="1024" alt="c2" src="https://user-images.githubusercontent.com/36408570/36629887-bf4efda0-1982-11e8-9b11-398a8d4552f6.PNG">
 
 
+For More Info Checkout the article on the below medium link.
 https://medium.com/@souravsonirjit5/optical-character-recognition-recognizing-text-to-labels-on-an-android-platform-4c20bddc9175
